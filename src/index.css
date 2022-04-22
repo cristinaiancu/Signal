@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Manrope', sans-serif;
+
+  --color-chat: rgb(240, 240, 240);
+  --color-bg: #747272;
+  --color-blog: #f4ac34;
+  --color-text: #2d2d2e;
+  --color-subtext: #fcc963;
+}
+
+*{
+  margin: 0;
+}
